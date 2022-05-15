@@ -1,5 +1,5 @@
 ## About me
-
+My name is Amin Norollah, and it is a place that I have shared my open-source projects with other developers. I strongly like to learn new languages and use my ability to develop the programs in many fields. My academic projects and experiences are most in the field of computer architecture and related to designing the hardware with HDL and C++ languages; however, my professional experience are focused on developing web applications (most of the time, I prefer to work on back-end).
 
 ## Languages and tools
 ### Javascript
@@ -20,7 +20,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" title=".Net framework" alt=".Net framework" width="40" height="40"/>&nbsp;
 </div>
 
-### DataBase
+### DataBases
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
@@ -28,7 +28,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;
 </div>
 
-### Other
+### Others
 <div>
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
