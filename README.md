@@ -1,6 +1,15 @@
 ## About me
 My name is Amin Norollah, and it is a place that I have shared my open-source projects with other developers. I strongly like to learn new languages and use my ability to develop the programs in many fields. My academic projects and experiences are most in the field of computer architecture and related to designing the hardware with HDL and C++ languages; however, my professional experience are focused on developing web applications (most of the time, I prefer to work on back-end).
 
+<div id="badges">
+  <a href="https://www.linkedin.com/in/amin-norollah/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="My LinkedIn"/>
+  </a>
+  <a href="https://scholar.google.com/citations?user=EN94mywAAAAJ&hl=en">
+    <img src="https://img.shields.io/badge/Google Scholar-red?style=for-the-badge&logo=google&logoColor=white" alt="My Google Scholar"/>
+  </a>
+</div>
+
 ## Languages and tools
 ### Javascript
 <div>
