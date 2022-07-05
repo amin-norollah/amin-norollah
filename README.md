@@ -1,5 +1,7 @@
 ## About me
-My name is Amin Norollah, and it is a place that I have shared my open-source projects with other developers. I strongly like to learn new languages and use my ability to develop the programs in many fields. My academic projects and experiences are most in the field of computer architecture and related to designing the hardware with HDL and C++ languages; however, my professional experience are focused on developing web applications (most of the time, I prefer to work on back-end).
+My name is Amin Norollah, and it is a place that I have shared my open-source projects with other developers. I strongly like to learn new technologies and use my ability to develop the applications with new challenges. My academic projects and experiences are most in the field of computer architecture and related to designing the hardware with HDL and C++ languages. My interest in accelerating database operations used in servers and desiging hardware accelerator for them helped me to change my major to be a backend developer. Therefore, my professional experience are focused on developing web applications (as a full stack developer).
+
+I listed most of languages, frameworks and technologies that I used before. 
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/amin-norollah/">
@@ -9,6 +11,8 @@ My name is Amin Norollah, and it is a place that I have shared my open-source pr
     <img src="https://img.shields.io/badge/Google Scholar-red?style=for-the-badge&logo=google&logoColor=white" alt="My Google Scholar"/>
   </a>
 </div>
+
+I listed most of languages, frameworks and technologies that I used before.
 
 ## Languages and tools
 ### Javascript
