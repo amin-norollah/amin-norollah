@@ -51,3 +51,6 @@ The list below is the most languages, tools, frameworks and technologies that I 
 </div>
 
 ### Others
+- Security: OAuth2.0; OpenId connect; IdentityServer4; using OWASP tips
+- Design Principles: SOLID
+- Application Test (unit test): nUnit, Chai
