@@ -1,6 +1,5 @@
 ## About me
-My name is Amin Norollah, and it is a place that I have shared my open-source projects with other developers. I strongly like to learn new technologies and use my ability to develop the applications with new challenges. My academic projects and experiences are most in the field of computer architecture and related to designing the hardware with HDL and C++ languages. My interest in accelerating database operations used in servers and desiging hardware accelerator for them helped me to change my major to be a backend developer. Therefore, my professional experience are focused on developing web applications (as a full stack developer).
-
+My name is Amin Norollah, and it is a place where I have shared my open-source projects with other developers. I strongly like to learn new technologies and use my ability to develop applications with new challenges. My academic projects and experiences are mostly in the field of computer architecture and related to designing hardware with HDL and C++ languages. My interest in accelerating database operations used in servers and designing hardware accelerator for them helped me to change my major to be a backend developer. Therefore, my professional experience is focused on developing web applications (as a full-stack developer).
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/amin-norollah/">
@@ -24,7 +23,7 @@ The list below is the most languages, tools, frameworks and technologies that I 
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
 </div>
 
-### Front-End
+### Front-End technologies
 <div>
      <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -32,7 +31,7 @@ The list below is the most languages, tools, frameworks and technologies that I 
     <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJS" alt="NextJS" width="40" height="40"/>&nbsp;
 </div>
 
-### Back-End
+### Back-End technologies
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="ExpressJS" alt="ExpressJS" width="40" height="40"/>&nbsp;
