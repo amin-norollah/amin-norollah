@@ -1,5 +1,5 @@
 ## About me
-I'm Amin Norollah and I work as a back-end developer. I'm very passionate about learning new technologies and ideas, I enjoy tackling challenges and sharing what I learned with other developers. My academic projects and experiences are mostly in the field of computer architecture and related to designing hardware with HDL and C++ languages. My interest in accelerating database operations used in servers and designing hardware accelerator for them, convinced me to change my major to be a backend developer. Therefore, my professional experience is focused on developing web applications (as a full-stack developer).
+I'm Amin Norollah and I work as a web developer (as a full-stack developer). I'm very passionate about learning new technologies and ideas, I enjoy tackling challenges and sharing what I learned with other developers. My academic projects and experiences are mostly in the field of computer architecture and related to designing hardware with HDL and C++ languages. My interest in accelerating database operations, designing hardware accelerator for server and need for developing APIs convinced me to change my professional career to be a software backend developer, and then became a full-stack developer.
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/amin-norollah/">
