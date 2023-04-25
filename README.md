@@ -1,5 +1,7 @@
 ## About me
-I'm Amin Norollah and I work as a web developer (as a full-stack developer). I'm very passionate about learning new technologies and ideas, I enjoy tackling challenges and sharing what I learned with other developers. My academic projects and experiences are mostly in the field of computer architecture and related to designing hardware with HDL and C++ languages. My interest in accelerating database operations, designing hardware accelerator for server and need for developing APIs convinced me to change my professional career to be a software backend developer, and then became a full-stack developer.
+Hey there! My name is Amin Norollah, and I work as a full-stack web developer. I'm always on the lookout for new technologies and ideas to learn about, and I love a good challenge. Sharing my knowledge with other developers is also something that I'm really passionate about.
+
+Most of my academic projects and experiences are centered around computer architecture and designing hardware using HDL and C++ languages. While I was exploring ways to accelerate database operations and create hardware accelerators for servers, I realized that I was more interested in software development. That's why I decided to switch my career path and become a software backend developer, and eventually a full-stack developer.
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/amin-norollah/">
@@ -11,7 +13,7 @@ I'm Amin Norollah and I work as a web developer (as a full-stack developer). I'm
 </div>
 
 ## Languages and tools
-The list below is the most languages, tools, frameworks and technologies that I use in my projects.
+the list below are the languages, tools, frameworks, and technologies that I frequently use in my projects:
 
 ### Languages
 <div>
