@@ -12,6 +12,7 @@ Most of my academic projects and experiences are centered around computer archit
   </a>
 </div>
 
+
 ## Languages and tools
 the list below are the languages, tools, frameworks, and technologies that I frequently use in my projects:
 
@@ -51,7 +52,19 @@ the list below are the languages, tools, frameworks, and technologies that I fre
     <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;
 </div>
 
+### Test frameworks
+- NUnit and xUnit for .Net
+- Mocha and Chai for JS
+- Robot test
+- Grafana k6
+- Cypress
+- Cucumber
+
 ### Others
 - Security: OAuth2.0; OpenId connect; IdentityServer4; using OWASP tips
 - Design Principles: SOLID
-- Application Test (unit, integration, load tests): nUnit; JMeter; Chai
+
+### Github contributions
+I used to make a lot of contributions on GitHub, but sadly, they disappeared completely when I left organizations. It was really disheartening. If you're experiencing a similar issue, I recommend checking out the following post for solution.
+
+<a href="https://blog.vikrantbhat.com/dont-lose-your-github-contributions-when-you-leave-an-organization">Don't lose your Github contributions when you leave an organization</a>
