@@ -67,4 +67,6 @@ the list below are the languages, tools, frameworks, and technologies that I fre
 ### Github contributions
 I used to make a lot of contributions on GitHub, but sadly, they disappeared completely when I left organizations. It was really disheartening. If you're experiencing a similar issue, I recommend checking out the following post for solution.
 
-<a href="https://blog.vikrantbhat.com/dont-lose-your-github-contributions-when-you-leave-an-organization">Don't lose your Github contributions when you leave an organization</a>
+<a href="https://norollah.com/feeds/2024-2-2">Maintain Your Github Contributions When Leaving an Organization</a>
+
+
